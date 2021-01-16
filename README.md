@@ -1,0 +1,2 @@
+# WebSclaper
+Chrome sclaping tool
